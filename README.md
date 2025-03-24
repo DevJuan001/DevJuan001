@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&width=760&height=100&lines=Hello!)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&pause=1000&color=F7F7F7&width=1040&height=100&lines=I'm+Developer+In+Process)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Winky+Sans&size=80&duration=1000&pause=200&color=F7F7F7&background=FFFFFF00&multiline=true&width=1040&height=400&lines=Hello!;+;I'm+Backend+Developer)](https://git.io/typing-svg)
 
 <h2>Languages : </h2>
 
