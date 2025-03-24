@@ -1,6 +1,4 @@
-<h1>Hello!  </a><img src="https://emoji.discadia.com/emojis/92c0241e-f8ae-47c6-9b1c-49aab7d9d541.GIF" width="30">
-<p>I´m Backend Developer </a>  <img src="https://emoji.discadia.com/emojis/caecbd46-4ce8-458b-9836-7e5f5863109b.gif" width="20"> <img src="https://emoji.discadia.com/emojis/6318135e-2ba8-49b8-b761-46b5eec83830.GIF" width="20"> </a><img src="https://emoji.discadia.com/emojis/44d9e089-4422-44fb-98f6-3014c69305b3.PNG" width="20">
-</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&width=435&lines=Hello!;I'm+Developer+in+process)](https://git.io/typing-svg)
 
 
 <h2>Languages : </h2>
