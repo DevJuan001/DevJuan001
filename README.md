@@ -2,15 +2,22 @@
 </p>
 <h4 align="center">I'm Developer 👨🏻‍💻 <h4>
 
-<h2>Languages : </h2>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<img src="https://camo.githubusercontent.com/c571a11f4f9c2837f8f3697fd8ee7fc54e7eb6f0a607273e0cac50a0a44f8fef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d464646464646"></img>
+<p align="center">
+   <a><img align="center" src=https://es.m.wikipedia.org/wiki/Archivo:Unofficial_JavaScript_logo_2.svg" height="28px" width="56px" />
+  </a>
+  <span style="width: 8px;"> </span>
+   <a>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Js" height="23px" width="33px" />
+  </a>
+  <span style="width: 8px;"> </span>
+  <a>
+    <img align="center" src="https://es.m.wikipedia.org/wiki/Archivo:Node.js_logo.svg" alt="Node" height="23px" width="23px" />
+  </a>
+  <span style="width: 8px;"> </span>
+  <a>
+    <img align="center" src="https://es.m.wikipedia.org/wiki/Archivo:Typescript_logo_2020.svg" alt="TypeScript" height="23px" width="28px" />
+  </a>
+</p>
 
 <h3>Social : </h3>
 
