@@ -2,7 +2,13 @@
 </p>
 <h4 align="center">I'm Developer 👨🏻‍💻 <h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
+<h5 align="center"> Languages </h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts" />
+  </a>
+</p>
+
 
 <h3>Social : </h3>
 
