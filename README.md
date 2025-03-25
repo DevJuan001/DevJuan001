@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h6 align="center"> Skills </h6>
+<h1 align="center"> Skills </h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
