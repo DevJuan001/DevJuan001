@@ -2,7 +2,7 @@
 </p>
 <h4 align="center">I'm Developer 👨🏻‍💻 <h4>
 
-<p align="center" width="50px"> Languages <p>
+<p align="center" width="50px" height="50px"> Languages <p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts" />
