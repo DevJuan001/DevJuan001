@@ -1,7 +1,7 @@
 <h1 align="center">¡Hello! 👋</h1>
 </p>
-<p align="center">I'm Developer 👨🏻‍💻 </p>
-<h1 align="center"> Languages </h1>
+<p align="center" style="font-size:50px; >I'm Developer 👨🏻‍💻 </p>
+<h1 align="center" > Languages </h1>
 <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts" align="center" />
