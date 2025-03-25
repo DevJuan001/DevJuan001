@@ -4,7 +4,7 @@
 <h1 align="center" > Languages </h1>
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts" align="center" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs" align="center" />
   </a>
 </p>
 <h1 align="center"> Skills </h1>
