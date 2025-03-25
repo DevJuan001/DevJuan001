@@ -1,6 +1,6 @@
 <h1 align="center">¡Hello! 👋</h1>
 </p>
-<p align="center" >I'm Developer 👨🏻‍💻 </p>
+<h2 align="center" >I'm Developer 👨🏻‍💻 </h2>
 <h1 align="center" > Languages </h1>
 <p align="center">
     <a href="https://skillicons.dev">
