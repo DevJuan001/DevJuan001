@@ -1,6 +1,6 @@
-<h3 align="center">¡Hello! 👋</h3>
+<h1 align="center">¡Hello! 👋</h1>
 </p>
-<h4 align="center">I'm Developer 👨🏻‍💻 <h4>
+<h2 align="center">I'm Developer 👨🏻‍💻 <h2>
 
 <h1 align="center" width="80px" height="50px"> Languages </h1>
 <p align="center">
