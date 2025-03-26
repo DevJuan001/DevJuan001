@@ -1,4 +1,4 @@
-<p font-size="40px"align="center"><strong>¡Hello! 👋 I'm Developer 👨🏻‍💻</strong></p>
+<h3 align="center"><strong>¡Hello! 👋 I'm Developer 👨🏻‍💻</strong></h3>
 <h1 align="center" > Languages </h1>
 <p align="center">
     <a href="https://skillicons.dev">
