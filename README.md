@@ -2,7 +2,7 @@
 <h1 align="center" > Skills </h1>
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,tailwind" align="center" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs" align="center" />
   </a>
 </p>
 <h1 align="center"> Version Control & Tools  </h1>
