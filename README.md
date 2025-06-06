@@ -8,7 +8,7 @@
 <h1 align="center"> Version Control & Tools  </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
   </a>
 </p>
 
